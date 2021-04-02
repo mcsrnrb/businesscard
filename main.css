@@ -56,3 +56,7 @@ a {
   font-size: 11px;
   color: grey;
 }
+
+img:hover {
+  filter: grayscale(50%);
+}
