@@ -24,6 +24,7 @@ body {
   box-shadow: 0px 0px 43px -10px black;
   font-size: 13px;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .is-circle {
@@ -59,8 +60,4 @@ a {
 
 img:hover {
   filter: grayscale(50%);
-}
-
-* {
-  box-sizing: border-box;
 }
