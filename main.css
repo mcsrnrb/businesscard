@@ -16,7 +16,7 @@ body {
 .card {
   background: #141414;
   background-image: url('https://svgur.com/i/8uP.svg');
-  background-size: contain;
+  background-size: cover;
   width: 500px;
   height: 340px;
   padding: 20px;
@@ -27,7 +27,6 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
 }
 
 .is-circle {
