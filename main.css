@@ -60,3 +60,7 @@ a {
 img:hover {
   filter: grayscale(50%);
 }
+
+* {
+  box-sizing: border-box;
+}
